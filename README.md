@@ -5,13 +5,7 @@
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif">
 
 
-- 🔭 I’m currently working on a personnel project
-
-- 🌱 I’m currently learning **Back-Frameworks**
-
 - 👨‍💻 My Portfolio link [https://touchenmportfolio.netlify.app/](https://touchenmportfolio.netlify.app/)
-
-- 💬 Ask me about **Web development, server maintenance**
 
 - 📫 How to reach me : **mohatouchen@protonmail.com**
 
