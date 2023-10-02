@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio link [https://touchenmportfolio.netlify.app/](https://touchenmportfolio.netlify.app/)
 
-- 📫 How to reach me : **mohatouchen@protonmail.com**
+- 📫 How to reach me  **mohatouchen@protonmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
