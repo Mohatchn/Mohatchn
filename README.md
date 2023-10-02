@@ -1,7 +1,10 @@
+![MasterHead](https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif)
 <h1 align="center">Hi 👋, I'm Mohtchn</h1>
 <h3 align="center">I am a passionate full-stack developer, but also in cybersecurity, and also a hacker-ethic</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJxNGJ6ZnU5eWdvc21wMDhvZWxkM2FzMGluaml6cGl4bXAxd2h3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")>
 
-- 🔭 I’m currently working on **Nova-RP**
+
+- 🔭 I’m currently working on a personnel project
 
 - 🌱 I’m currently learning **Back-Frameworks**
 
@@ -9,11 +12,10 @@
 
 - 💬 Ask me about **Web development, server maintenance**
 
-- 📫 How to reach me **mohatouchen@protonmail.com**
+- 📫 How to reach me : **mohatouchen@protonmail.com**
 
-- 📄 Know about my experiences [Of good temperament, I am observant, determined to learn and improve every passing day. I have loved the digital world since I was very young; this realm with so much openness and so many possibilities has always fascinated and drawn me in! I also particularly enjoy video games, much like good science fiction movies!](Of good temperament, I am observant, determined to learn and improve every passing day. I have loved the digital world since I was very young; this realm with so much openness and so many possibilities has always fascinated and drawn me in! I also particularly enjoy video games, much like good science fiction movies!)
+- 📄 Know about my experiences : **Of good temperament, I am observant, determined to learn and improve every passing day. I have loved the digital world since I was very young, this realm with so much openness and so many possibilities has always fascinated and drawn me in ! I also particularly enjoy video games, much like good science fiction movies!**
 
-- ⚡ Fun fact **Did you know that the most common password in 2021 was still '123456'? Even with all the advances in security, some people remain loyal to the classics !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
